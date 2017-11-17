@@ -1,0 +1,5 @@
+default:
+    vmware_user: 'administrator@vsphere.local'
+    vmware_password: 'password'
+    ignore_ssl: True
+
